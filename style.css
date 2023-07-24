@@ -5,7 +5,7 @@
 }
 
 body {
-
+    overflow-x: hidden;
     /* background-color: #f8f8f8; */
     background: linear-gradient(315deg, #2d3436 0%, #d3d3d3 74%);
     background-repeat: no-repeat;
